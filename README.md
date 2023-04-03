@@ -1,32 +1,9 @@
-## ⭐ Portfolio Website ⭐
+# Responsive Portfolio Website Jhon Doe
 
-This is my Portfolio Website which consist of my **latest work, projects and blogs** and this portfolio is built using **HTML5, CSS3 and Tailwind CSS**.
+## [Watch it on youtube](https://youtu.be/6cidbUHNZRQ)
 
-## 📌 **Live Site URL:** <a href="https://prakash-naikwadi.netlify.app/">**Visit Now** 🚀</a>
+###  Responsive Portfolio Website
+A clean and nice web portfolio for designer or developer. That includes almost everything you want to show. At first, your name and a great image. Then the About section displays more information about you. Then the list of skills it offers. It also has a section where it shows some recent work. And at the bottom it has contact information and a form, and at the bottom a footer.
 
-<br>
-
-## 📌 Tech Stack
-
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
-<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;
-<br>
-<br>
-
-## 📌 Overview
-
-<br>
-
-![Screenshot](./images/screenshot.png?raw=true "Template Screenshot")
-
-## 📬 Connect With Me
-
-- **LinkedIn** - [Prakash Naikwadi](https://www.linkedin.com/in/prakash-naikwadi/)
-- **Twitter** - [@PrakashNaikwad6](https://www.twitter.com/PrakashNaikwad6)
-
-## 📌 Acknowledgments
-
-- Course Instructor - [Hitesh Choudhary](https://github.com/hiteshchoudhary)
-- Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
-- This ReadMe File Inspired From - [Jigar Sable](https://github.com/jigar-sable)
+Don't forget to join the channel for more videos like this.
+[Bedimcode](https://www.youtube.com/c/Bedimcode)
