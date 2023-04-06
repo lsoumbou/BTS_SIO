@@ -120,6 +120,14 @@ img{
     background-color: var(--first-color);
 }
 
+.tableau a{
+    color: #3cba54;
+    text-decoration: underline;
+}
+.tableau a:hover{
+    color: red;
+}
+
 /*===== NAV =====*/
 .nav{
     height: var(--header-height);
