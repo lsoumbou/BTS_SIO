@@ -279,6 +279,12 @@ img{
 .about__social-icon:hover{
     color: var(--first-color);
 }
+.laurent_bexi{
+    color: #3cba54;
+}
+.laurent_bexi:hover{
+    color: aqua;
+}
 
 /* ===== SKILLS =====*/
 .skills__container{
