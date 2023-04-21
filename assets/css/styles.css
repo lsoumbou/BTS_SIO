@@ -176,7 +176,18 @@ img{
 .show{
     right: 0;
 }
+ 
+ .liens_compétence{
+    display: block;
+    justify-items: center;
+    color: #3cba54;
+    text-decoration: underline;
+    
+ }
 
+ .liens_compétence:hover{
+    color: red;
+ }
 /*Active menu*/
 .active::after{
     position: absolute;
@@ -284,6 +295,13 @@ img{
 }
 .laurent_bexi:hover{
     color: aqua;
+}
+/* ârtie entreprise */
+.big{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
+    text-decoration: underline;
 }
 
 /* ===== SKILLS =====*/
