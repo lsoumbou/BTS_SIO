@@ -275,12 +275,8 @@ img{
     font-size: 1.4rem;
     margin: 0 var(--mb-1);
 }
-.laurent_grace{
-   color: #3cba54;
-}
-.grace{
-     color: aqua;
-}
+ 
+
 .laurent{
     color: #FAFAFF;
 }
@@ -291,7 +287,7 @@ img{
     color: var(--first-color);
 }
 .laurent_bexi{
-    color: #3cba54;
+    color:#FAFAFF;
 }
 .laurent_bexi:hover{
     color: aqua;
@@ -381,6 +377,9 @@ img{
     }
     .tableau{
         color: #2A3B47;
+    }
+    .grace{
+        color: #2A3B47; 
     }
   }
 @media screen and (min-width: 768px){
