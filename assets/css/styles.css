@@ -179,7 +179,7 @@ img{
  
  .liens_compétence{
     display: block;
-    justify-items: center;
+    
     color: #3cba54;
     text-decoration: underline;
     
@@ -378,6 +378,9 @@ img{
         font-size: 20px;
         margin: 0;
         padding: 0;
+    }
+    .tableau{
+        color: #2A3B47;
     }
   }
 @media screen and (min-width: 768px){
