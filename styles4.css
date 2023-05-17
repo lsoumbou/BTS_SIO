@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+}
+
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+h1{
+    font-size: 40px;
+    margin-top: 40px;
+    text-align: center;
+    font-family: sans-serif;
+}
+p{
+     
+    font-size: 20px;
+}
+
+.laurent{
+    width: 500px;
+    margin-right: 20px;
+
+}
+
+span{
+    font-size: 20px;
+}
+a{
+    font-size: 20px;
+    color: blue;
+}
+a:hover{
+    color: brown;
+}
